@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Date: Wed, 21 Apr 2021 08:13:34 GMT
+Expires: Thu, 26 Oct 1978 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Content-Type: text/xml; charset=UTF-8
+X-Content-Type-Options: nosniff
+Content-Length: 129
+Connection: Keep-Alive
+X-Frame-Options: SAMEORIGIN
+Server: Splunkd
+
